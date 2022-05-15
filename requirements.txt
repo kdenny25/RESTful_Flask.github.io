@@ -1,0 +1,20 @@
+# install required packages using
+# install pip install -r requirements.txt
+
+# primary flask package
+flask
+flask-sqlalchemy
+
+# postgres requirement
+psycopg2
+
+# ORM
+#sqlalchemy
+
+
+# start uvicorn server using
+# uvicorn app:app --reload
+# uvicorn
+
+# Make HTTP calls with Request
+request
